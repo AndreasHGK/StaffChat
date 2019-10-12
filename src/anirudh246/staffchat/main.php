@@ -1,4 +1,3 @@
-  
 <?php
 namespace anirudh246/StaffChat
 use _64FF00\PurePerms\PPGroup; 
@@ -30,4 +29,4 @@ public function onLoad(){
   else
   }
         
-}
+} //HGK since its technically my plugin imma use it
